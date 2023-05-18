@@ -1,3 +1,9 @@
+I've been working on a project that combines the power of OpenAI's DALL·E and OpenAI's 'text-davinci-003' 🤖🎉
+
+Introducing an innovative solution for those times when you have a handful of leftover ingredients and you're wondering what delicious dish you can whip up with them. 🍽️💡 Our Autogenerative AI, powered by OpenAI and DALL·E, can now generate recipes based on those ingredients and even provide stunning images of the dishes!
+
+With DALL·E's remarkable image generation capabilities and OpenAI's cutting-edge Autogenerative AI, I created a script that generates innovative recipes and provides visual representations of the dishes.
+
 # Output
 ### [Creamy Cheesy Pasta with Corn and Capsicum recipe](https://github.com/ayushs0911/Recipe-Generator-using-OpenAi-Dalle/blob/main/Creamy%20Cheesy%20Pasta%20with%20Corn%20and%20Capsicum.txt)<br>
 ![Creamy Cheesy Pasta with Corn and Capsicum](https://github.com/ayushs0911/Recipe-Generator-using-OpenAi-Dalle/assets/122048067/a52aed05-1c82-42a5-b5be-216b36c9d687)
